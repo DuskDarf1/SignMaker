@@ -41,6 +41,7 @@ const lib = (function() {
 		Red : "rgb(255, 0, 0)",
 		"Fluorescent Pink" : "rgb(255, 51, 204)",
 		"Fluorescent Yellow-Green" : "rgb(153, 255, 0)"
+		"Fluorescent Yellow" : "rgb(220, 254, 17)"
 	};
 
 
